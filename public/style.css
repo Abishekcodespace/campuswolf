@@ -1,0 +1,5 @@
+/* For grid background effect on landing and login pages */
+.bg-grid-gray-700\\[\/0\\.2\\] {
+    background-image: linear-gradient(rgba(55, 65, 81, 0.2) 1px, transparent 1px), linear-gradient(to right, rgba(55, 65, 81, 0.2) 1px, transparent 1px);
+    background-size: 2rem 2rem;
+}
